@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/enemy1_idle1" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_2" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_3" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_4" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_5" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_6" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_7" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_8" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_9" android:duration="50"/>
+    <item android:drawable="@drawable/enemy1_idle_10" android:duration="50"/>
+</selector>

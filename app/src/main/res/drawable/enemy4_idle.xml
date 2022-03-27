@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/enemy4_idle_1" android:duration="50"/>
+    <item android:drawable="@drawable/enemy4_idle_2" android:duration="50"/>
+    <item android:drawable="@drawable/enemy4_idle_3" android:duration="50"/>
+</selector>
